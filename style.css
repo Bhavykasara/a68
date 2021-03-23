@@ -1,0 +1,17 @@
+.ma {
+    background-color: chartreuse;
+}
+body {
+    background-color: yellow;
+}
+#mahaop {
+    font-size: 30px;
+}
+#opman {
+    font-size: 20px;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
